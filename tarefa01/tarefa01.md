@@ -1,10 +1,13 @@
 [Questão - 1](tarefa01-q01.sql)
+
 [Questão - 4](tarefa01-q04.sql)
+
 [Questão - 7](tarefa01-q07.sql)
+
 [Questão - 10](tarefa01-q10.sql)
+
 [Questão - 13](tarefa01-q13.sql)
 
-markdown
 # NATURAL JOIN e CROSS JOIN
 
 ## NATURAL JOIN
